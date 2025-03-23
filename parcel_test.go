@@ -12,6 +12,8 @@ import (
 	_ "github.com/stretchr/testify/require"
 )
 
+// Test pipeline
+
 var (
 	// randSource источник псевдо случайных чисел.
 	// Для повышения уникальности в качестве seed
